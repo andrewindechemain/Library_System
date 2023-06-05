@@ -14,7 +14,7 @@ Align main heading to the center of the page
 | 6.Flask                | Environment          | [Development ];
 | 7.Jest,React test Rendererer|    Testing  | [Testing];[E2E]                         
 <div align="left">
-<h1>React Native Configuration for Zamara Mobile Application </h1> The ReadME documents details about configuring a React Native App built using ReactNative and Expo
+<h1>React and Flask Application for library management system </h1> The ReadME documents details about configuring a Library management system build using Flask and ReactJs
 
 <!-- Badges -->
 <p>
